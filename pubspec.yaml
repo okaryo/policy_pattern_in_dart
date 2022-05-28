@@ -1,0 +1,12 @@
+name: policy_pattern_in_dart
+description: policy pattern sample implimented in dart
+version: 1.0.0
+repository: https://github.com/okaryo/policy_pattern_in_dart
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
+  test: '>=1.15.0 <2.0.0'

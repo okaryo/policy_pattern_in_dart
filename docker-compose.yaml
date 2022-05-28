@@ -1,0 +1,11 @@
+version: '3.1'
+
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: ./docker/Dockerfile
+    volumes:
+      - .:/app
+    command: >
+      dart run main.dart
