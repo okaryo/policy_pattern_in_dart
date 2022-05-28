@@ -8,4 +8,4 @@ services:
     volumes:
       - .:/app
     command: >
-      dart run main.dart
+      dart run src/main.dart
