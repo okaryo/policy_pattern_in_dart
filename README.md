@@ -12,7 +12,7 @@ So I decided to actually implement it using the Dart lang.
 
 ## Class diagram
 
-![Class diagram](https://user-images.githubusercontent.com/44517313/170810904-bba4c8a9-0f41-4541-be61-2989c4ce01c5.jpg)
+![Class diagram](https://user-images.githubusercontent.com/44517313/170811043-91f1df2f-d1c0-49fa-940d-e4faefe33843.png)
 
 ## How to try sample
 If you are using docker, run the following command.
